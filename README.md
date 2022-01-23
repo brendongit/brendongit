@@ -1,6 +1,6 @@
 ### Olá, seja bem-vindo(a) ao meu perfil! 👋
 
-- 🔭 Hoje trabalho (estagiando) com front-end e back-end.
+- 🔭 Atualmente trabalho (estagiando) com front-end e back-end.
 - 🌱 Estudando ReactJS, NodeJS.
 - 📗 O sucesso é treinável.
 
