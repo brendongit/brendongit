@@ -7,8 +7,8 @@
 
 <div align="center">
   <a href="https://github.com/brendongit">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=brendongit&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brendongit&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=brendongit&show_icons=false&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brendongit&layout=compact&langs_count=7&theme=great-gatsby"/>
 </div></br>
   
   <div style="display: inline_block"><br>
