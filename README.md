@@ -12,6 +12,7 @@
 </div></br>
   
   <div style="display: inline_block"><br>
+   <img align="right" alt="Brendon-pic" height="350" style="border-radius:50px;" src="https://media1.giphy.com/media/0eC2lKzxzeQmi7c0Rt/giphy.gif?cid=790b7611aebfb321224fe65b8bbad6cea61e7b9cfef8794b&rid=giphy.gif&ct=s">
   <h4> Linguagens que uso/estudo  <h4/>
   <img align="center" alt="Brendon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Brendon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -20,7 +21,7 @@
   <img align="center" alt="Brendon-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Brendon-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Brendon-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img align="right" alt="Brendon-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+ 
 </div>
 </div>
   
