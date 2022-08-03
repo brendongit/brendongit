@@ -1,7 +1,7 @@
 ### Olá, seja bem-vindo(a) ao meu perfil! 👋
 
-- 🔭 Atualmente trabalho (estagiando) como dev fullstack.
-- 🌱 Estudando/Trabalhando com ReactJS, NodeJS.
+- 🔭 Atualmente trabalho (estagiando) como dev front-end (Web/Mobile).
+- 🌱 Estudando/Trabalhando com ReactJS, React Native, NodeJS.
 - 📗 O sucesso é treinável.
 
 
