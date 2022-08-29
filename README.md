@@ -11,9 +11,10 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brendongit&layout=compact&langs_count=7&theme=codeSTACKr"/>
 </div></br>
   
-  <div style="display: inline_block"><br>
-   <img align="right" alt="Brendon-pic" height="350" style="border-radius:50px;" src="https://media1.giphy.com/media/0eC2lKzxzeQmi7c0Rt/giphy.gif?cid=790b7611aebfb321224fe65b8bbad6cea61e7b9cfef8794b&rid=giphy.gif&ct=s">
+  <div style="display: inline_block">
+ 
   <h4> Linguagens que uso/estudo  <h4/>
+    <img align="right" alt="Brendon-pic" height="350" src="https://media1.giphy.com/media/0eC2lKzxzeQmi7c0Rt/giphy.gif?cid=790b7611aebfb321224fe65b8bbad6cea61e7b9cfef8794b&rid=giphy.gif&ct=s">
   <img align="center" alt="Brendon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Brendon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Brendon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
