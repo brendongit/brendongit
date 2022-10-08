@@ -4,7 +4,7 @@
 - 🌱 Estudando/Trabalhando com ReactJS, React Native, NodeJS.
 - 📗 O sucesso é treinável.
 
- ##
+
 <div align="center">
   <a href="https://github.com/brendongit">
 
@@ -24,7 +24,7 @@
 </div>
 </div>
   
-  ##
+</br>
   
   <div>
   <h4>Redes sociais</h4>
