@@ -7,8 +7,7 @@
 
 <div align="center">
   <a href="https://github.com/brendongit">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=brendongit&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brendongit&layout=compact&langs_count=7&theme=codeSTACKr"/>
+
 </div></br>
   
   <div style="display: inline_block">
@@ -21,7 +20,6 @@
   <img align="center" alt="Brendon-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Brendon-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Brendon-NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Brendon-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
  
 </div>
 </div>
