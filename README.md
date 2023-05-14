@@ -1,4 +1,4 @@
-### Olá, seja bem-vindo(a) ao meu perfil! 👋
+### Olá, seja bem-vindo(a) ao meu perfil!! 👋
 
 - 🔭 Atualmente trabalho como dev front-end (Web/Mobile).
 - 🌱 Estudando/Trabalhando com ReactJS, React Native, NodeJS.
