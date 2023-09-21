@@ -36,7 +36,7 @@
   <div>
   <h4>Redes sociais</h4>
    <a href = "https://www.linkedin.com/in/brendon-oliveira-0b467923a"><img src="https://img.shields.io/badge/LinkedIn-d8582c?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href = "mailto:brenddesigneroficial@gmail.com"><img src="https://img.shields.io/badge/Gmail-d8582c?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href = "mailto:brendondev22@gmail.com"><img src="https://img.shields.io/badge/Gmail-d8582c?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/brendonoliveira9" target="_blank"><img src="https://img.shields.io/badge/Instagram-d8582c?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
  
