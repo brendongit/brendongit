@@ -1,6 +1,6 @@
 ### Olá, seja bem-vindo(a) ao meu perfil!! 👋
 
-- 🔭 Atualmente trabalho como dev front-end (Web/Mobile).
+- 🔭 Atualmente trabalho como dev fullStack (Web/Mobile).
 - 🌱 Estudando/Trabalhando com ReactJS, React Native, NodeJS.
 - 📗 O sucesso é treinável.
 
