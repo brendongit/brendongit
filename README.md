@@ -13,7 +13,7 @@
   <div style="display: inline_block">
  
   <h4> Tecnologias que utilizo!  <h4/>
-    <img align="right" alt="Brendon-pic" height="350" src="https://i.giphy.com/media/0eC2lKzxzeQmi7c0Rt/giphy.webp">
+    <img align="right" alt="Brendon-pic" height="350" src="https://platform.vox.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/8689467/gatsby.gif?quality=90&strip=all&crop=18.78125,0,62.4375,100">
   <img align="center" alt="Brendon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Brendon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Brendon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
